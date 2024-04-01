@@ -1,10 +1,28 @@
 # Changelog
 
+## 1.20.1
+  * Bump facebook_business SDK to v19.0.0 [#238](https://github.com/singer-io/tap-facebook/pull/238)
+
+## 1.20.0
+  * Run on python 3.11.7 [#237](https://github.com/singer-io/tap-facebook/pull/237)
+
+## 1.19.1
+  * Add retry logic for status code - 503 [#226](https://github.com/singer-io/tap-facebook/pull/226)
+
+## 1.19.0
+  * Add conversions to insights streams [#204](https://github.com/singer-io/tap-facebook/pull/204)
+
+## 1.18.6
+  * Bump facebook_business SDK to v17.0.2 for token param bug fix [#219](https://github.com/singer-io/tap-facebook/pull/219)
+
+## 1.18.5
+  * Bump facebook_business SDK to v16.0.2 [#213](https://github.com/singer-io/tap-facebook/pull/213)
+
 ## 1.18.4
-  * Facebook busines API to v14.0 [#201](https://github.com/singer-io/tap-facebook/pull/201)
+  * Facebook business API to v14.0 [#201](https://github.com/singer-io/tap-facebook/pull/201)
 
 ## 1.18.3
-  * Facebook busines API to V13.0 [#191] (https://github.com/singer-io/tap-facebook/pull/191)
+  * Facebook business API to V13.0 [#191] (https://github.com/singer-io/tap-facebook/pull/191)
 ## 1.18.2
   * Implemented Request Timeout [#173](https://github.com/singer-io/tap-facebook/pull/173)
 
